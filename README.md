@@ -1,2 +1,2 @@
-# gen
+# Makefile generator
 gen
