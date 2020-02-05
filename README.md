@@ -1,2 +1,2 @@
 # Makefile generator
-gen
+HamakarqIO is IoT hub which contains ARM/Linuux computer 
